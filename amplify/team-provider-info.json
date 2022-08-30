@@ -1,0 +1,27 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-wugo8thapp-dev-94906-authRole",
+            "UnauthRoleArn": "arn:aws:iam::516670672167:role/amplify-wugo8thapp-dev-94906-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::516670672167:role/amplify-wugo8thapp-dev-94906-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-wugo8thapp-dev-94906-deployment",
+            "UnauthRoleName": "amplify-wugo8thapp-dev-94906-unauthRole",
+            "StackName": "amplify-wugo8thapp-dev-94906",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:516670672167:stack/amplify-wugo8thapp-dev-94906/8dbc9930-27fd-11ed-8254-0e6954eeaee7",
+            "AmplifyAppId": "d649j6c36doa5"
+        },
+        "categories": {
+            "auth": {
+                "undefined": {}
+            },
+            "notifications": {
+                "Pinpoint": {
+                    "Name": "wugo8thapp-dev",
+                    "Id": "75690ded9c114b7797e021b178f74693",
+                    "Region": "ap-northeast-1"
+                }
+            }
+        }
+    }
+}

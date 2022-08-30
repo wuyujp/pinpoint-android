@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780005850047",
+    "project_id": "wugo8thapp",
+    "storage_bucket": "wugo8thapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780005850047:android:8d706243bd454b647cbf0a",
+        "android_client_info": {
+          "package_name": "com.example.wugo8thapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780005850047-4vgienfu6ohkbtop0r430e8cqhnejjn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5tyLs7oRnLBEkk1w7L6mSNsd9LalA9xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780005850047-4vgienfu6ohkbtop0r430e8cqhnejjn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

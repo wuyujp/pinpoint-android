@@ -1,0 +1,21 @@
+{
+    "appName": "wugo8thapp",
+    "roleName": "pinpointLambdaRoleffb5d0d6",
+    "cloudformationPolicyName": "cloudformationPolicyffb5d0d6",
+    "cloudWatchPolicyName": "cloudWatchPolicyffb5d0d6",
+    "pinpointPolicyName": "pinpointPolicyffb5d0d6",
+    "authPolicyName": "pinpoint_amplify_ffb5d0d6",
+    "unauthPolicyName": "pinpoint_amplify_ffb5d0d6",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

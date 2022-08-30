@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "wugo8thapp_identitypool_4a90b740",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "wugo8thapp",
+    "sharedId": "4a90b740",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}
