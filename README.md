@@ -1,6 +1,6 @@
 # pinpoint-android
 
-Smaple code to create a pinpoint mobile push demo.
+Smaple code to create a Amazon Pinpoint mobile push demo.
 
 Verified with `Amplify 9.1.0` and `API 21: Android 5.0 (Lollipop)` from the Minimum SDK.
 
